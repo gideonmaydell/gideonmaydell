@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @gideonmaydell
 - 👀 I’m interested in backend and fullstack web development.
-- 🌱 I’m currently learning JavaScript and how to write tests. 
-- 📫 Contact me over [LinkedIn(https://www.linkedin.com/in/gideon-maydell-960356157/)]!
+- 🌱 I’m currently learning JavaScript and how to write tests.
 
